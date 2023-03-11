@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Lora&family=Open+Sans:wght@300&family=Roboto:wght@300&family=Solway:wght@300&family=Tilt+Prism&display=swap');
+
+body {
+    font-family: 'Solway', serif;
+
+}
+.contact_image{
+    width: 100px;
+    height: 120px;
+}

@@ -1,0 +1,23 @@
+
+
+
+
+            Contact Management App Work Flow
+           -----------------------------------
+
+            1.create new project
+            2.run project
+            3.remove contents in appcomponent.html
+            4.configure external libraries: Bootstrap,google fonts,font awsome
+            5.Create necessary components
+                -all contacts
+                -add-contacts
+                -edit-contacts
+                -view-contacts
+                -navbar
+                -page not found
+            6.set path for each components
+            7.use selector router-outlet in appcomponent
+            8.Design Html view
+            9.create angular service for api call
+            10.create a model for contact
